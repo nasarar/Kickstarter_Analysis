@@ -40,8 +40,9 @@ Although the data set given has a multitude of useful information that covered a
 
 ###### Further Research
 Nonetheless, there are further research that could be added to find the trends to design an optimized campaign for the client. Trends include:
-  *Finding the number of plays that are successful/ failed / canceled throughout each year to figure out the popularity of the **Theatre/Plays**    segment on Kickstarter. This would show if Kickstarter would still be a viable platform to raise funds or should another platform be used.
-  *Finding the optimal campaign length by finding the relationship between the length of the campaign and the success / success / failure / cancelation rates of each. This could be divided by the number of days that a campaign is active. 
-  *Most importantly, finding checkpoints throughout the campaign that would give it an indicator whether it would be successful in raising its funds. This is done if more information is given as to which point of the campaign length are the funds successfully raised. This would be helpful to indicate not only in designing the campaign but the status as to the likelihood of success. 
+
+- Finding the number of plays that are successful/ failed / canceled throughout each year to figure out the popularity of the **Theatre/Plays**    segment on Kickstarter. This would show if Kickstarter would still be a viable platform to raise funds or should another platform be used.
+- Finding the optimal campaign length by finding the relationship between the length of the campaign and the success / success / failure / cancelation rates of each. This could be divided by the number of days that a campaign is active. 
+- Most importantly, finding checkpoints throughout the campaign that would give it an indicator whether it would be successful in raising its funds. This is done if more information is given as to which point of the campaign length are the funds successfully raised. This would be helpful to indicate not only in designing the campaign but the status as to the likelihood of success. 
   
 In conclusion the analysis performed with the given data and the client’s needs are met, however there is more information that is left on the table that the client may be able to use that could help their Kickstarter campaign.  
