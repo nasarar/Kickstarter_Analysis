@@ -9,7 +9,8 @@ The client is looking to compare its active Kickstarter campaign that raised muc
 ## Analysis and Challenges
 ###### Outcomes Based on Launch Dates
 One of the reviews being done is charting the success rates based on which quarter and specifically which month garnered the highest success rates in the category. Using the Kickstarter data, a pivot table is created to isolate the specific population needed.  Firstly, the Parent Category and Years are used as filters to gather only the “Theatre” population. It is then followed by the Outcomes set on the column and values section. Lastly, Date Created Conversion is placed into the rows portion of the pivot table. With these steps in mind, an adequate pivot table is created that highlights the relationship between the months of the year and its success, fail, and canceled rates. The pivot table is further analyzed using a line graph that visualizes the trends over the months. 
-INSERT PICTURE HERE
+
+![](resources/Theatre_Outcomes_vs_Launch.png)
 
 
 ###### Outcomes Based on Goals
@@ -19,8 +20,8 @@ To find the number of successful campaigns in the 10000 to 14999 range, this cod
 =COUNTIFS(Kickstarter!$F:$F, "successful", Kickstarter!$D:$D, ">=10000", Kickstarter!$D:$D, "<=14999")
 ```
 Furthermore, to show the trends, a line chart is used. Through this chart, the percentage of success, fail, and canceled rates in comparison to its goals are visually identified. 
-INSERT PICTURE HERE
 
+![](resources/Outcomes_vs_Goals.png)
 
 ###### Challenges
 Throughout the challenge there are two specific areas of difficulties. First would be while creating the pivot table in the **Outcomes Based on Launch Dates** analysis. Deciding which criteria would be appropriate to go within the rows, columns, and value sections might prove challenging to others. One way to overcome this issue is to draw out the type of table that would make the most sense for the question being asked. For example, since the question is asking to show the trend of success rates throughout the year, it would make sense to put the Dates Created Conversion on the rows and the Outcomes on the column of the pivot table. 
