@@ -1,4 +1,4 @@
-# kickstarter_analysis
+# Kickstarter_Analysis
 
 ## Overview
 
